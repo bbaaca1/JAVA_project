@@ -1,0 +1,70 @@
+2023 8월 11   08:23:10,383 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:23:11,118 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   08:23:31,413 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:26:49,144 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:26:49,739 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   08:27:36,751 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:27:37,338 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   08:56:51,456 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:56:52,075 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   08:59:49,277 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   08:59:49,874 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:09:55,480 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:09:56,094 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:14:52,953 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:14:53,555 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:20:45,741 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:20:46,357 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:22:44,107 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:22:44,701 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:31:46,981 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:31:47,582 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:32:25,444 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:32:26,047 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:33:49,727 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:33:50,336 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:39:33,055 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:39:33,649 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:39:44,695 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:39:45,293 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:39:52,012 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:39:52,572 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:41:24,919 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:41:25,544 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:41:37,221 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:41:37,800 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:42:54,480 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:43:14,120 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:44:41,130 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:45:17,078 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:47:36,815 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:48:05,877 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:49:02,866 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:50:31,812 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:50:32,397 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:51:03,594 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:51:04,162 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:51:19,540 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:51:20,099 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:52:02,068 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:52:02,702 [main] FATAL system.FileSystemDataUpdater - org.apache.poi.EmptyFileException: The supplied file was empty (zero bytes long)
+2023 8월 11   09:53:52,985 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:53:53,582 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   09:57:59,111 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   09:57:59,689 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:42:04,280 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:42:05,499 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:47:25,639 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:47:26,233 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:47:59,223 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:47:59,801 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:48:21,128 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:48:21,721 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:48:29,379 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:48:29,957 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:51:19,108 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:51:19,765 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:56:46,976 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:56:47,623 [main] INFO  system.FileSystemDataUpdater - data Load end
+2023 8월 11   10:59:07,296 [main] INFO  system.FileSystemDataUpdater - Loading data
+2023 8월 11   10:59:07,882 [main] INFO  system.FileSystemDataUpdater - data Load end
